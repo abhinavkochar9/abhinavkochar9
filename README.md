@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav 👋
 
-**AI/ML Engineer • Applied Researcher • Systems Builder**
+**AI/ML Engineer • Applied Researcher • Data Scientist**
 
 I build intelligent systems that run in the real world — not just in a Jupyter notebook.
 
