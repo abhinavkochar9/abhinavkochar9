@@ -34,7 +34,7 @@ I work across:
 ### 📫 Reach me
 - Email: abhihk02@gmail.com  
 - LinkedIn: [linkedin.com/in/abhinavkochar](https://www.linkedin.com/in/abhinavkochar)
-- Resume: (add PDF link later)
+- My CV: [Google Drive Link](https://drive.google.com/file/d/1yTSSm5FjZV15rQdoT88aLXtiFcwBT_p6/view?usp=sharing)
 
 ---
 
